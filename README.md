@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I'm Felipe Henrique 👋
 
 <!--
 **felipepsicoutlook/felipepsicoutlook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### There is no elevator to success, you have to take the stairs
+- 🏠 I'm from Bahia🌴
+- 🦾 I wanna become a Front-End engineer
+- 🧠 I’m currently learning JavaScript and Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Find me elsewhere🔎
+
+[![Twitter Badge](https://img.shields.io/badge/-@felipendev-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Felipendev)](https://twitter.com/Felipendev) 
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Henrique-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-henrique-pedroso/)](https://www.linkedin.com/in/felipe-henrique-pedroso/) 
+[![Gmail Badge](https://img.shields.io/badge/-felipehenrique.pds@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipehenrique.pds@gmail.com)](mailto:felipehenrique.pds@gmail.com)
