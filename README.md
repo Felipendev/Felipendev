@@ -8,7 +8,7 @@
 
 - 🦾 I'm Felipe Henrique aspiring Font-End developer
 - 🏠 I'm from Bahia🌴
-- 🧠 I’m currently learning JavaScript, React and Java
+- 🧠 I’m currently learning JavaScript, Angular and Java
 
 
 Find me elsewhere👇
