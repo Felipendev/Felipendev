@@ -6,9 +6,9 @@
 #### **"There is no elevator to success, you have to take the stairs"** 👨‍💻💪
 
 
-- 🦾 I'm Felipe Henrique aspiring Font-End developer
+- 🦾 I'm Felipe Henrique aspiring Back-End developer
 - 🏠 I'm from Bahia🌴
-- 🧠 I’m currently learning JavaScript, Angular and Java
+- 🧠 I’m currently learning Angular, Java and API REST
 
 
 Find me elsewhere👇
