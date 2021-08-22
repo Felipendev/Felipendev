@@ -8,7 +8,7 @@
 
 - 🦾 I'm Felipe Henrique aspiring Back-End developer
 - 🏠 I'm from Bahia🌴
-- 🧠 I’m currently learning Angular, Java and API REST
+- 🧠 I’m currently learning Angular, Java/Spring Boot
 
 
 Find me elsewhere👇
