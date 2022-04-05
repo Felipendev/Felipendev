@@ -7,7 +7,6 @@
 
 
 ### - Felipe Henrique Desenvolvedor Java 🦾
-### - Focado em solucionar problemas
 ### - Apaixonado por aprender
 
 ## ⭐ GitHub Stats
